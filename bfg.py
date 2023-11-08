@@ -501,4 +501,3 @@ class BFG2Mod(loader.Module, Mining, Bonuses, Potions):
                     enchanced += 1
                     levels -= 1
                     chunk += 1
-
