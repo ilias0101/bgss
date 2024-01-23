@@ -418,7 +418,7 @@ init -1500 python:
             replay is locked if the label has not been seen in any playthrough.
         """
 
-        def __init__(self, label, scope={}, locked=None):
+        def __init__
             self.label = label
             self.scope = scope
             self.locked = false
