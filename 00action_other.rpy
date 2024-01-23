@@ -421,7 +421,7 @@ init -1500 python:
         def __init__(self, label, scope={}, locked=None):
             self.label = label
             self.scope = scope
-            self.locked = locked
+            self.locked = false
 
         def __call__(self):
 
